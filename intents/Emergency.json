@@ -1,0 +1,18 @@
+{
+  "id": "70922a40-3654-4a15-a8c0-2aaaf46ecf92",
+  "name": "Emergency",
+  "auto": true,
+  "responses": [
+    {
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "\u26a0\ufe0f This is serious. Please go to nearest hospital immediately."
+          ]
+        }
+      ]
+    }
+  ]
+}

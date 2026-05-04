@@ -1,0 +1,18 @@
+{
+  "id": "3f907e2c-aabe-40e3-8f15-8086e6db995f",
+  "name": "Appointment",
+  "auto": true,
+  "responses": [
+    {
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Please share your name and preferred date."
+          ]
+        }
+      ]
+    }
+  ]
+}

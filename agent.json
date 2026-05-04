@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "Health bot",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Karachi",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3
+}

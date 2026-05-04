@@ -1,0 +1,46 @@
+[
+  {
+    "id": "b6dd3fc0-bfed-40aa-a543-fddec8935a34",
+    "data": [
+      {
+        "text": "fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b7da7d4-03df-424b-94cb-c760805eede1",
+    "data": [
+      {
+        "text": "cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d675956-a65c-45ca-82c5-10d894d029ef",
+    "data": [
+      {
+        "text": "headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "39fb0ae5-b278-4d12-9672-08b02b1ea84b",
+    "data": [
+      {
+        "text": "pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

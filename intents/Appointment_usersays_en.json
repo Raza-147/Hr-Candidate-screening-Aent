@@ -1,0 +1,35 @@
+[
+  {
+    "id": "d0aadf6a-bef3-4bbb-b439-c36e199eb8cc",
+    "data": [
+      {
+        "text": "book appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4ee1b5b-1105-4162-ae7c-75a05461e7db",
+    "data": [
+      {
+        "text": "doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2093e307-056e-4423-879a-8d4a0846546a",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

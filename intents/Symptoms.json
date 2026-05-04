@@ -1,0 +1,18 @@
+{
+  "id": "bc4120d7-d850-41b1-8c81-bf520526576d",
+  "name": "Symptoms",
+  "auto": true,
+  "responses": [
+    {
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "How long have you been feeling this?"
+          ]
+        }
+      ]
+    }
+  ]
+}

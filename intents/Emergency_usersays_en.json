@@ -1,0 +1,35 @@
+[
+  {
+    "id": "46a37c12-4e14-448c-b069-b697af1488ed",
+    "data": [
+      {
+        "text": "chest pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5b7d268-38fe-4bc0-b1a4-5309d26eb4e0",
+    "data": [
+      {
+        "text": "breathing issue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9960d30-4e14-43ca-b7ff-50dda2b592b2",
+    "data": [
+      {
+        "text": "serious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

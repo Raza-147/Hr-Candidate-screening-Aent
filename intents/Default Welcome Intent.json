@@ -1,0 +1,18 @@
+{
+  "id": "47895e76-ae15-49f4-9bc0-8dfd0a5f8506",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "responses": [
+    {
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi \ud83d\udc4b I am your AI Health Assistant. Tell me your symptoms."
+          ]
+        }
+      ]
+    }
+  ]
+}
